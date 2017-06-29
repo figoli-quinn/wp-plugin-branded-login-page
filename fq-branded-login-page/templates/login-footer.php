@@ -1,6 +1,6 @@
 <div class="fq-footer">
 	<div class="fq-branding">
-		<img class="fq-logo" src="<?php echo plugins_url( '/', __FILE__ ) . 'images/fq-logo-white-50.png'; ?>">
+		<img class="fq-logo" src="<?php echo plugins_url( '/', __DIR__ ) . 'images/fq-logo-white-50.png'; ?>">
 		<h4 class="fq-title">A product of <a target="_blank" href="https://www.figoliquinn.com/">Figoli Quinn & Associates</a></h4>
 		<h5>The Small Office of Big Ideas</h5>
 	</div>
